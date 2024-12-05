@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SmartWareHouseDeploy/static/css/main.ee9a79cc.css",
+    "main.js": "/SmartWareHouseDeploy/static/js/main.ebd4c5bd.js",
+    "static/js/511.94307713.chunk.js": "/SmartWareHouseDeploy/static/js/511.94307713.chunk.js",
+    "static/js/359.76fc89b7.chunk.js": "/SmartWareHouseDeploy/static/js/359.76fc89b7.chunk.js",
+    "static/js/767.0669380f.chunk.js": "/SmartWareHouseDeploy/static/js/767.0669380f.chunk.js",
+    "index.html": "/SmartWareHouseDeploy/index.html",
+    "main.ee9a79cc.css.map": "/SmartWareHouseDeploy/static/css/main.ee9a79cc.css.map",
+    "main.ebd4c5bd.js.map": "/SmartWareHouseDeploy/static/js/main.ebd4c5bd.js.map",
+    "511.94307713.chunk.js.map": "/SmartWareHouseDeploy/static/js/511.94307713.chunk.js.map",
+    "359.76fc89b7.chunk.js.map": "/SmartWareHouseDeploy/static/js/359.76fc89b7.chunk.js.map",
+    "767.0669380f.chunk.js.map": "/SmartWareHouseDeploy/static/js/767.0669380f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee9a79cc.css",
+    "static/js/main.ebd4c5bd.js"
+  ]
+}
