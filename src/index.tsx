@@ -7,7 +7,6 @@ import {
 } from "react-router-dom";
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import ProtectedDashboard from "./page/Dashboard/Dashboard";
 import Login from "./compoments/Login/Login";
 import { UserManagement } from "./page/User/UserManagement";
 import { SKUManagement } from "./page/SKU/SKUManagement";
@@ -106,7 +105,7 @@ const router = createBrowserRouter([
         path: "*",
         element: <ErrorPage />,
     }
-]);
+], { basename: "/SmartWareHouseDeploy" });
 
 const root = ReactDOM.createRoot(
     document.getElementById('root') as HTMLElement
